@@ -3,7 +3,8 @@ Strategic analysis of Airbnb revenue patterns and demand forecasting using Excel
 # NYC Airbnb Strategic Analysis Project 🏨
 
 ### 📊 Project Dashboard
-![Dashboard Preview](dashboard_img.png)
+<img width="1887" height="786" alt="dashboard_img" src="https://github.com/user-attachments/assets/11c30446-351d-4031-90e4-414a7113e6e3" />
+
 *(Above is a snapshot of the interactive dashboard)*
 
 ---
